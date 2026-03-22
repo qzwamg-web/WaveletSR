@@ -137,7 +137,7 @@ from pytorch_lightning.utilities.rank_zero import rank_zero_only
 Place the rendered `images/` folder in the same parent directory as the `point_cloud/` folder. Ensure the data structure aligns with the 3DGS requirements.
 
 ### 2. Execution
-Navigate to the `ntire/` directory and run the training script:
+run the training script:
 
 ```bash
 bash ntire.sh
